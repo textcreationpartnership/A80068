@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble proposal to the honourable the knights, cityzens and burgesses in Parliament assembled, for employing and maintaining the poor of this kingdom, by erecting fisheries, and improving manufacturies</title>
+            <author>Cole, John, fl. 1700.</author>
+         </titleStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80068</idno><idno type="EEBO-CITATION">99900226</idno>
+  <idno type="VID">171072</idno>
+  <idno type="EEBO-PROQUEST">2248515586</idno>
+  
+            <idno type="STC">Wing C5023A</idno>
+            <idno type="STC">ESTC R232718</idno>
+            <idno type="PROQUEST">99900226</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99900226e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171072)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2553:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble proposal to the honourable the knights, cityzens and burgesses in Parliament assembled, for employing and maintaining the poor of this kingdom, by erecting fisheries, and improving manufacturies</title>
+                  <author>Cole, John, fl. 1700.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Cole.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>With a docket title: A proposal to maintain the poor, by erecting fisheries.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poor --  Employment --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Fisheries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal_to_Parliament">
+            <pb facs="tcp:171072:1"/>
+            <head>An humble Proposal to the Honourable the Knights, Cityzens and Burgesses in Parliament assembled, for Employing and Maintaining the Poor of this Kingdom, by erecting Fisheries, and improving Manufacturies.</head>
+            <p>TO have a Director General that shall provide a Convenient Place in every County, for the most burdensome Poor of every Parish, of every respective County to be plac'd together in; every one of which places to have a Market one Day in a Week, and two Faires in a Year; the Director to procure a sufficient Undertaker for each Place so provided (who is to be chief Majestrate and Ruler therein) and as many more sufficient Undertakers, as shall be needful to be had for undertaking the whole Kingdom. All Parishes throughout the Kingdom to pay the Undertakers Monthly, a proportion for fourteen Years as followeth, that is to say, the Third part of what the Collections of the Poors Rates amounted to the three Years last past, for the first Year of this Undertaking, and so on, until the full end and expi<g ref="char:EOLhyphen"/>ration of seven Years next ensuing the date hereof, for the next seven Years, that makes up and fully Compleats the fourteen Years, half to be paid in manner and form as aforesaid.</p>
+            <p>
+               <hi>London</hi> and <hi>Westminster,</hi> besides the Counties they stand in, being very Large and Numerous, to have four Places within the Weekly Bill of Mortality, convenient to receive some Poor out of every adjacent Parish within the Weekly Bill of Mortality: In every one of the said four Places a Market shall be holden, and an Undertaker shall be placed and Govern as aforesaid.</p>
+            <p>Which said places of <hi>London</hi> and <hi>Westminster,</hi> and within the Weekly Bill of Mortality, have a bun<g ref="char:EOLhyphen"/>dance of Beggers, and Idle Loose People, that ought to be reduc'd and Maintain'd as Poor, that never were entered in their Parish Books, yet one way or other get their livelyhoods from them. For preventing Beggers, or any Loose Idle People from Lurking about within the Limits aforesaid: One Farthing a Week for every House within the Weekly Bill of Mortality, being Monthly paid to the Undertakers over and above their Parish Rates; the Undertakers within the Weekly Bill of Mortality shall Employ, provide for and well Maintain any such Begger or Beggers, or other Loose Person or Persons brought to any Undertaker, Deputy or Agent for any Undertaker, within the Weekly Bill of Mortality.</p>
+            <p>That the Mony may not be received, and the Poor not well Employ'd and Maintain'd, let the Justices of the Peace of every County, inspect and see that the Poor People have all things Needful both in Sickness and in Health, according to their several Stations, as Servants, Apprentices, and Poor La<g ref="char:EOLhyphen"/>bouring People ought to have and be supply'd with, and on Complaint upon Oath, that such Supplies by any are wanted, the Neighbouring Justices of the Peace shall enquire and examine into the matter, send for the Undertaker, his Deputy or Agent, and if they find good Cause and Reason so to do, to force and compel the Undertaker, his Deputy or Agent, to provide for, and supply them with what they want and stand in need of, and that they Govern and Breed all up Religiously and Soberly.</p>
+            <p>Every Undertaker shall be a Responsible Man of, or well known in the County, the place and places he is Undertaker for, and give Bond to the Church-wardens or Overseers of the Poor of every Parish he is Undertaker for; that their Poor shall be well provided for, and maintain'd as long as he receives their Poors Rates, and continues an Undertaker. And if requir'd by the Church-wardens or Overseers of the Poor, shall make Oath before some Majestrate, that he is not Undertaker for more Parishes then he shews a Certificate under the Hands and Seals of, two or more of the Neigh<g ref="char:EOLhyphen"/>bouring Justices of the Peace, approving, and allowing his Bond to be sufficient Security to make him perform his Contract and Undertaking, with the Parish or Parishes mention'd in the Certificate.</p>
+            <p>The Profits of the Fairs and Markets to be the Directors, or his Assigns, for the Term of the afore<g ref="char:EOLhyphen"/>said fourteen Years, he or they carrying on, and seeing well performed this beneficial Undertaking according to the Proposal.</p>
+            <p>The Justices of the Peace to have power to remove; or put out any Undertaker (at the Quarter Sessi<g ref="char:EOLhyphen"/>ons) if they find good Cause and Reason so to do; giving notice in the <hi>Gazzette</hi> to the Director to provide another sufficient in his room, that shall give Security the in like manner the Undertaker did before him.</p>
+            <p>It will be no small help to the Poor, besides many other great Advantages to the Nation, to con<g ref="char:EOLhyphen"/>trive to keep our Wool at home, and send all sorts of Woollen Manufacturies abroad, which I hum<g ref="char:EOLhyphen"/>bly Conceive this following Method will effectually perform, if the Parliament shall think fit.</p>
+            <p>To lay a Tax of so much upon every pound of Wool, half so much upon every pound of Wool-locks.</p>
+            <p>That this may not hinder the Manufacturing and working up of Wool, follow the Act prohibiting, <hi>the Dead to be drest in any thing that is not made of Wool:</hi> Do somthing of the like upon the Living, com<g ref="char:EOLhyphen"/>pelling them from their Shouldiers to the Bottoms of their Feet, to wear no Garments or Coverings that is not made of Wool, Leather, Silk, Gold, or Silver, except Shirts, Smocks and Sheets.</p>
+            <p>To encourage the Merchants to carry abroad as much of Woollen Manufactures as they can Pur<g ref="char:EOLhyphen"/>chase: Order a Draw-back at the Custom-house; of so much a pound for all things and Goods made of Wool, as is laid upon Wool, for what is made of Wool-locks, as much as is laid upon Wool-locks.</p>
+            <p>The Advantages of Taxing Wool before any other thing, tho at first it is paid by the Owner, is the most easiest and most universal of all Taxes; the Owner being no looser, selling his Wool for as much or more then he now doth, besides what will pay the Tax. The Cloathier will do the like by his Cloath, so will the Draper; it is the buyer that will pay the Tax. (by consequenee the whole Nation) A Land Tax lays all upon the Owner, which is hard and unequal, all other Taxes doth no good, but raise Mony: A Tax upon Wool, doth not only raise Mony, but keep Wool to our great advan<g ref="char:EOLhyphen"/>tage at home, disappoints our Neighbours, advances our Merchants, which no where for the future will meet with any Competeter or Underminer in their Woollen Traffick, which I fear to often now they do; If this be true, which I believe cannot be denied; it will be the the most benificial and equal Tax that ever was laid upon the Nation, and I hope for the Nations good always will be used:</p>
+            <closer>
+               <signed>John Cole.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:171072:2"/>
+            <p>A PROPOSAL to Maintain the Poor, by Erecting Fisheries.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
